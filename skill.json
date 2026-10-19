@@ -1,0 +1,21 @@
+{
+  "name": "genpark-git-semantic-cherry-pick-conflict-resolver-skill",
+  "version": "1.0.1",
+  "description": "Three-way AST hunk alignment and non-overlapping block conflict resolution for Git cherry-pick and rebase patches",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "git",
+    "cherry-pick",
+    "conflict-resolver",
+    "diff-parser",
+    "ast-alignment",
+    "python-standard-library",
+    "agent-skills",
+    "developer-tools",
+    "vcs",
+    "code-merging"
+  ]
+}
